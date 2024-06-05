@@ -1,0 +1,18 @@
+.mainCard{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    border: 1px solid black;
+    height: 300px;
+    width: 500px;
+    justify-content: center;
+}
+
+.row{
+    display: flex;
+    justify-content: space-around;
+}
+
+label {
+    float: left;
+}
